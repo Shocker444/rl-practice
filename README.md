@@ -1,9 +1,11 @@
 # rl-practice
 Reinforcement learning
 
-Example training the lunar lander agent..
+Example training the lunar lander agent to land on the designated area(basicaly the moon).
 
 
 
-https://github.com/Shocker444/rl-practice/assets/101675941/598b03cf-f992-4570-8936-fe2858f572a2
+https://github.com/Shocker444/rl-practice/assets/101675941/421ae287-669e-4ad2-a7dd-f65706829ca1
+
+
 
